@@ -8,28 +8,30 @@ I'm a Year 1 IB Diploma student in Curitiba, Brazil, trilingual in Portuguese, E
 
 A few things about me: I have a Taekwondo black belt, I've played piano for eight years, and I've been into space and stargazing since I was a kid, which is basically why I'm chasing aerospace in the first place.
 
-## What I'm building
+## Projects on GitHub
 
-- **[Mascate](https://github.com/Gabriel-Stt)** (a.k.a. Embaixador Cultural), a cultural-guide humanoid robot for ethnic memorials in Curitiba. It talks, answers questions using semantic search, and moves its arms through servo-driven mirrored joints. CAD'd in OnShape, brain running on a Raspberry Pi. Took 2nd place in Future Innovators at WRO Brazil 2026.
-- **[Scribe](https://github.com/Gabriel-Stt/scribe)**, a local-first desktop app that records lectures and meetings, transcribes them fully on-device, and turns them into searchable, AI-assisted notes. Built because I kept losing focus trying to write notes and pay attention at the same time. Tauri, React, Rust.
+- **[Scribe](https://github.com/Gabriel-Stt/scribe)**, a local-first desktop app that records lectures and meetings, transcribes them fully on-device, and turns them into searchable, AI-assisted notes. Built at the WPI Frontiers Entrepreneurship Program (Summer 2026) because I kept losing focus trying to write notes and pay attention at the same time. Tauri, React, Rust.
 - **[PosiMUN](https://github.com/Gabriel-Stt/PosiMUN)**, the site for PosiMUN, a Model UN conference where I served as Vice Secretary-General for the 2026 edition. Live at [posimun.com](https://posimun.com).
+
+## Other things I've built
+
+Not everything lives in a repo yet. Some of it will, eventually.
+
+- **Mascate** (a.k.a. Embaixador Cultural), a cultural-guide humanoid robot for ethnic memorials in Curitiba. It talks, answers questions using semantic search, and moves its arms through servo-driven mirrored joints. CAD'd in OnShape, brain running on a Raspberry Pi. Took 2nd place in Future Innovators at WRO Brazil 2026.
+- **FOLKBOT**, a VEX robotics competition entry from my time at WPI, built around a counter-rotating dual-blade intake mechanism I designed.
 - **Line follower robot**: Arduino Uno, 2WD chassis, L298N motor driver, dual IR sensors. A classic build, good for learning control loops before jumping into bigger robots.
-- **FOLKBOT**, my team's VEX robotics competition entry, built around a counter-rotating dual-blade intake mechanism I designed.
-
-## Outside the workshop
-
-- Co-lead **Fundamentos do Dinheiro**, a financial literacy initiative that has reached 45,000+ students across Brazil.
-- Building **STEAM Seeds**, a STEAM education nonprofit for public schools and NGOs in Curitiba.
-- Study-resource ambassador for **IB Unlocked**, within IBlieve.
-- Once produced an eight-episode documentary, *Threads of Belonging*, on cultural identity, because apparently robots weren't enough of a side quest.
+- **REX Tools**, a product landing page and skills-based price lookup tool for a family abrasives business.
+- **Threads of Belonging**, an eight-episode documentary I produced on cultural identity.
+- **Fundamentos do Dinheiro**, a financial literacy initiative I co-lead that has reached 45,000+ students across Brazil.
+- **STEAM Seeds**, a STEAM education nonprofit I'm building for public schools and NGOs in Curitiba.
 
 ## Academics
 
 IB Diploma Programme: Math AA HL, Chemistry HL, English HL, Business Management SL, History SL, Portuguese SL. I also self-study AP Calculus BC, AP Physics C: Mechanics, and AP German, and train weekly at POTI, a math olympiad program.
 
-## Setup
+## Toolbox
 
-Running Arch Linux on a 2013 MacBook Air, currently riced with a custom XFCE theme I put together called Aegis-Green (also poking at Hyprland when I have time to break things). Notes live in an Obsidian vault with a Python script watching over it.
+Arch Linux daily driver, VS Code as my editor, Git for everything, OnShape for CAD, and Arduino/PlatformIO for embedded work.
 
 <div align="center">
 
