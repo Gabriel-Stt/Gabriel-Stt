@@ -13,7 +13,7 @@ A few things about me: I have a Taekwondo black belt, I've played piano for eigh
 - **[Scribe](https://github.com/Gabriel-Stt/scribe)**, a local-first desktop app that records lectures and meetings, transcribes them fully on-device, and turns them into searchable, AI-assisted notes. Built at the WPI Frontiers Entrepreneurship Program (Summer 2026) because I kept losing focus trying to write notes and pay attention at the same time. Tauri, React, Rust.
 - **[PosiMUN](https://github.com/Gabriel-Stt/PosiMUN)**, the site for PosiMUN, a Model UN conference where I served as Vice Secretary-General for the 2026 edition. Live at [posimun.com](https://posimun.com).
 
-## Other things I've built
+## Other builds
 
 Not everything lives in a repo yet. Some of it will, eventually.
 
@@ -21,9 +21,13 @@ Not everything lives in a repo yet. Some of it will, eventually.
 - **FOLKBOT**, a VEX robotics competition entry from my time at WPI, built around a counter-rotating dual-blade intake mechanism I designed.
 - **Line follower robot**: Arduino Uno, 2WD chassis, L298N motor driver, dual IR sensors. A classic build, good for learning control loops before jumping into bigger robots.
 - **REX Tools**, a product landing page and skills-based price lookup tool for a family abrasives business.
-- **Threads of Belonging**, an eight-episode documentary I produced on cultural identity.
+
+## Beyond the workshop
+
 - **Fundamentos do Dinheiro**, a financial literacy initiative I co-lead that has reached 45,000+ students across Brazil.
 - **STEAM Seeds**, a STEAM education nonprofit I'm building for public schools and NGOs in Curitiba.
+- **IB Unlocked**, a study-resource initiative within IBlieve, where I'm a returning ambassador.
+- **Threads of Belonging**, an eight-episode documentary I produced on cultural identity.
 
 ## Academics
 
